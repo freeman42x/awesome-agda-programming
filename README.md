@@ -1,2 +1,3 @@
-# awesome-agda-programming
-Awesome Agda Programming
+# Awesome Agda Programming
+
+[Agda (programming language)](https://en.wikipedia.org/wiki/Agda_(programming_language)) Agda is a dependently typed functional programming language originally developed by Ulf Norell at Chalmers University of Technology with implementation described in his PhD thesis. Agda is also a proof assistant based on the propositions-as-types paradigm, but unlike Coq, has no separate tactics language, and proofs are written in a functional programming style. The language has ordinary programming constructs such as data types, pattern matching, records, let expressions and modules, and a Haskell-like syntax. Agda is based on Zhaohui Luo's unified theory of dependent types (UTT), a type theory similar to Martin-Löf type theory.
