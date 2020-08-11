@@ -29,7 +29,7 @@
 
 ## Courses
 
-* [Dependently typed metaprogramming (in Agda)](https://danel.ahman.ee/agda-course-13/>)
+* [Dependently typed metaprogramming (in Agda)](https://danel.ahman.ee/agda-course-13/)
 
 ## Books
 
