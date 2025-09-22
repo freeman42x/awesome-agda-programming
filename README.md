@@ -35,6 +35,7 @@
 
 * [Verified Functional Programming in Agda](https://www.amazon.co.uk/Verified-Functional-Programming-Agda-Books/dp/1970001240)
 * [Programming Language Foundations in Agda](https://plfa.github.io/)
+* [Certainty by Construction](https://leanpub.com/certainty-by-construction)
 
 ## Projects
 
